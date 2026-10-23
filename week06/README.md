@@ -119,9 +119,6 @@ docker build -f Dockerfile.multistage -t guestbook:multistage .
 docker images | grep guestbook
 ```
 
-## 9. 기존 6주차 과제 PPT
-
-
 
 ## 10. 혼자 해보기
 

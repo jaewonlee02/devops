@@ -3,3 +3,6 @@ week04/restore-check/
 week04/backups/
 week04/restore-check/
 *.Zone.Identifier
+
+# 로컬 환경변수
+.env

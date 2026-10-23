@@ -1,0 +1,3 @@
+FROM ghcr.io/jaewonlee02/guestbook:v1
+ENV APP_TITLE="이재원의 방명록 (추가 설정)" \
+    THEME_COLOR="#7C9A82"
